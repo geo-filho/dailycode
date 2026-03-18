@@ -1,0 +1,5 @@
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\obj\Debug\net8.0\GeoExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\obj\Debug\net8.0\GeoExercises.AssemblyInfoInputs.cache
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\obj\Debug\net8.0\GeoExercises.AssemblyInfo.cs
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\obj\Debug\net8.0\GeoExercises.csproj.CoreCompileInputs.cache
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\obj\Debug\net8.0\GeoExercises.sourcelink.json

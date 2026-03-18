@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PARTICIPANTS", "PARTICIPANTS", "{0BC5C2B4-1886-7038-3ABB-15E74FB53CE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "geo", "geo", "{4EA923B1-9E78-31D8-DBF6-5FE3CFA36ADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoExercises", "GeoExercises.csproj", "{FC031FE9-7A9D-1262-4E06-61692B2C83E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC031FE9-7A9D-1262-4E06-61692B2C83E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC031FE9-7A9D-1262-4E06-61692B2C83E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC031FE9-7A9D-1262-4E06-61692B2C83E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC031FE9-7A9D-1262-4E06-61692B2C83E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4EA923B1-9E78-31D8-DBF6-5FE3CFA36ADF} = {0BC5C2B4-1886-7038-3ABB-15E74FB53CE2}
+		{FC031FE9-7A9D-1262-4E06-61692B2C83E6} = {4EA923B1-9E78-31D8-DBF6-5FE3CFA36ADF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD7BA4B4-01B7-4D5C-B34C-FD7B5E4F2744}
+	EndGlobalSection
+EndGlobal
