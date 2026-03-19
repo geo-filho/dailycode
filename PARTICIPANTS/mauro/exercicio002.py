@@ -1,6 +1,6 @@
-num1 = float(input("Digite um numero"))
-num2 = float(input("Digite um numero"))
-num3 = float(input("Digite um numero"))
+num1 = float(input("Digite um numero: "))
+num2 = float(input("Digite um numero: "))
+num3 = float(input("Digite um numero: "))
 
 soma = num1 + num2 + num3
 

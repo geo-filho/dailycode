@@ -1,3 +1,3 @@
-nome = input ("Digite seu nome:")
+nome = input ("Digite seu nome: ")
 
 print(f"{nome}")
