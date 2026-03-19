@@ -12,4 +12,8 @@ int num3 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine(num1 + num2 + num3);
 
-// comando para rodar dotnet run --project PARTICIPANTS/geo/Semana01/exercicio002dotnet run --project PARTICIPANTS/geo/exercicio003
+// Para rodar, execute a partir da RAIZ do repositório (dailycode/dailycode):
+// dotnet run --project PARTICIPANTS/geo/Semana01/exercicio002
+//
+// Ou entre na pasta do exercício e rode:
+// dotnet run
