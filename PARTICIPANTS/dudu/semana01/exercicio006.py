@@ -7,7 +7,7 @@ def ler_nota(mensagem):
 
 
 def calcularMedia(materia1, materia2, materia3):
-    resultadoMedia = round(materia1 + materia2 + materia3) / 3
+    resultadoMedia = (materia1 + materia2 + materia3) / 3
     
     if resultadoMedia >= 7:
         return "O aluno foi APROVADO!"
