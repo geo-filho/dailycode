@@ -1,0 +1,15 @@
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\bin\Debug\net10.0\Exercicio009.exe
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\bin\Debug\net10.0\Exercicio009.deps.json
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\bin\Debug\net10.0\Exercicio009.runtimeconfig.json
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\bin\Debug\net10.0\Exercicio009.dll
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\bin\Debug\net10.0\Exercicio009.pdb
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\Exercicio009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\Exercicio009.AssemblyInfoInputs.cache
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\Exercicio009.AssemblyInfo.cs
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\Exercicio009.csproj.CoreCompileInputs.cache
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\Exercicio009.sourcelink.json
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\Exercicio009.dll
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\refint\Exercicio009.dll
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\Exercicio009.pdb
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\Exercicio009.genruntimeconfig.cache
+C:\Users\geo17\OneDrive\Área de Trabalho\dailycode\dailycode\PARTICIPANTS\geo\Semana01\Exercicio009\obj\Debug\net10.0\ref\Exercicio009.dll
