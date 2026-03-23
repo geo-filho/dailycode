@@ -1,0 +1,15 @@
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\bin\Debug\net10.0\exercicio011.exe
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\bin\Debug\net10.0\exercicio011.deps.json
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\bin\Debug\net10.0\exercicio011.runtimeconfig.json
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\bin\Debug\net10.0\exercicio011.dll
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\bin\Debug\net10.0\exercicio011.pdb
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\exercicio011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\exercicio011.AssemblyInfoInputs.cache
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\exercicio011.AssemblyInfo.cs
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\exercicio011.csproj.CoreCompileInputs.cache
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\exercicio011.sourcelink.json
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\exercicio011.dll
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\refint\exercicio011.dll
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\exercicio011.pdb
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\exercicio011.genruntimeconfig.cache
+C:\Users\g.da.silva.filho\Documents\OneDrive - Avanade\Desktop\dailycode\dailycode\PARTICIPANTS\geo\Semana01\exercicio011\obj\Debug\net10.0\ref\exercicio011.dll
