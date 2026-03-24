@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\g.da.silva.filho\\Documents\\OneDrive - Avanade\\Desktop\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\exercicio011.csproj": {}
+    "C:\\Users\\geo17\\OneDrive\\Área de Trabalho\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\exercicio011.csproj": {}
   },
   "projects": {
-    "C:\\Users\\g.da.silva.filho\\Documents\\OneDrive - Avanade\\Desktop\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\exercicio011.csproj": {
+    "C:\\Users\\geo17\\OneDrive\\Área de Trabalho\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\exercicio011.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g.da.silva.filho\\Documents\\OneDrive - Avanade\\Desktop\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\exercicio011.csproj",
+        "projectUniqueName": "C:\\Users\\geo17\\OneDrive\\Área de Trabalho\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\exercicio011.csproj",
         "projectName": "exercicio011",
-        "projectPath": "C:\\Users\\g.da.silva.filho\\Documents\\OneDrive - Avanade\\Desktop\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\exercicio011.csproj",
-        "packagesPath": "C:\\Users\\g.da.silva.filho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g.da.silva.filho\\Documents\\OneDrive - Avanade\\Desktop\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\obj\\",
+        "projectPath": "C:\\Users\\geo17\\OneDrive\\Área de Trabalho\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\exercicio011.csproj",
+        "packagesPath": "C:\\Users\\geo17\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geo17\\OneDrive\\Área de Trabalho\\dailycode\\dailycode\\PARTICIPANTS\\geo\\Semana01\\exercicio011\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\g.da.silva.filho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\geo17\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -65,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
