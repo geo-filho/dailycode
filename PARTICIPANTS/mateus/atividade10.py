@@ -1,3 +1,4 @@
+#função para verificar o maior e menor número entre três números
 def verificar_maior_menor(n1, n2, n3):
     maior = n1
     menor = n1
@@ -14,11 +15,18 @@ def verificar_maior_menor(n1, n2, n3):
 
     return maior, menor
 
+#solicitar ao usuário três números
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
 num3 = float(input("Digite o terceiro número: "))
 
 maior, menor = verificar_maior_menor(num1, num2, num3)
+
+#verificar se os três números são iguais
+if num1 == num2 == num3:
+    print("Os três números são iguais.")
+else:
+    print("Existem números iguais, mas não são todos iguais.")
 
 print("Maior número:", maior)
 print("Menor número:", menor)
